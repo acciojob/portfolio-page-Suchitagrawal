@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+body{
+	border: 2px solid;
+}
+img{
+	border: 1px solid;
+}
+#skills{
+	border: 2px solid;
+}
+div{
+	border: 2px solid;
+}
+#projects{
+	border: 2px solid;
+}
+a{
+	color: black;
+}
+h1{
+	border: 3px solid;
+}
