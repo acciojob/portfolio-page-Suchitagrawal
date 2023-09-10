@@ -2,22 +2,29 @@
 /* Your CSS Code here. */
 body{
 	border: 2px solid;
+	background-image: url("https://tse3.mm.bing.net/th?id=OIP.gGQK4OQEY-lote6nqm6MZgHaEK&pid=Api&P=0&h=180")
 }
 img{
-	border: 1px solid;
+	border: 2px solid;
+	margin: 1px;
+	background-color: black;
 }
 #skills{
 	border: 2px solid;
+	background-color: lightblue;
 }
 div{
 	border: 2px solid;
 }
 #projects{
 	border: 2px solid;
+	background-color: lightblue;
 }
 a{
 	color: black;
+	
 }
 h1{
 	border: 3px solid;
+	background-color: lightblue;
 }
